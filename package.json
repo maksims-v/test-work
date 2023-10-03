@@ -1,0 +1,26 @@
+{
+  "name": "test-work",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.11",
+    "@mui/material": "^5.14.11",
+    "@mui/x-data-grid": "^6.15.0",
+    "@mui/x-date-pickers": "^6.15.0",
+    "@nivo/bump": "^0.83.0",
+    "@nivo/line": "^0.83.0",
+    "dayjs": "^1.11.10",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "swr": "^2.2.4"
+  }
+}
